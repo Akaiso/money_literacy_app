@@ -1,5 +1,4 @@
 # money_literacy_app
-<<<<<<< HEAD
 
 financial literacy app for children
 
@@ -15,6 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
 Teach kids how to manage their finances
->>>>>>> 0703ecdbbabcf6f4185e10a426afaed31a05ad20
